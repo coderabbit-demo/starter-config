@@ -66,9 +66,3 @@ chat:
   art: false
   auto_reply: true
 
-knowledge_base:
-  web_search:
-    enabled: false
-  code_guidelines:
-    enabled: false
-
