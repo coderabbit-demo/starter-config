@@ -3,6 +3,7 @@ reviews:
   collapse_walkthrough: false
   changed_files_summary: false
   suggested_reviewers: false
+  estimate_code_review_effort: false
   in_progress_fortune: false
   poem: false
   path_instructions:
