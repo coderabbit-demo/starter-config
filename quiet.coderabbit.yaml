@@ -8,7 +8,7 @@ reviews:
   path_instructions:
     - path: '**/*'
       instructions: >
-        - Only comment on issues that would block merging — ignore minor or stylistic concerns.
+        - Ignore minor or stylistic concerns.
 
         - Restrict feedback to errors, security risks, or functionality-breaking problems.
 
