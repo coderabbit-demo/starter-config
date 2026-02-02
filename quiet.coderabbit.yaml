@@ -34,7 +34,7 @@ reviews:
           blocking issues only.
         - Avoid posting any refactoring issues
   auto_review:
-    auto_incremental_review: false
+    auto_incremental_review: true
   finishing_touches:
     docstrings:
       enabled: false
