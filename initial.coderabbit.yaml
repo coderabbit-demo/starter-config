@@ -1,18 +1,17 @@
 # yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
 
 tone_instructions: Prefer concise responses (high information density, low fluff)
-early_access: true
 inheritance: true
 
 reviews:
-  profile: assertive
-  request_changes_workflow: true
+  profile: chill
+  request_changes_workflow: false
   disable_cache: true
   collapse_walkthrough: false
   changed_files_summary: false
   sequence_diagrams: false
   estimate_code_review_effort: false
-  auto_apply_labels: true
+  auto_apply_labels: false
   suggested_reviewers: false
   in_progress_fortune: false
   poem: false
@@ -69,11 +68,3 @@ knowledge_base:
     scope: local
   pull_requests:
     scope: local
-
-issue_enrichment:
-  planning:
-    auto_planning:
-      labels:
-        - triage
-  labeling:
-    auto_apply_labels: true
