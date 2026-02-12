@@ -60,10 +60,6 @@ reviews:
       mode: 'off'
 
 knowledge_base:
-  code_guidelines:
-    filePatterns:
-      - '**/CODERABBIT.md'
-      - '**/CODE_STYLE.md'
   issues:
     scope: local
   pull_requests:
