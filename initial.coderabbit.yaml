@@ -15,6 +15,11 @@ reviews:
   suggested_reviewers: false
   in_progress_fortune: false
   poem: false
+
+  high_level_summary: true
+  high_level_summary_instructions: "Give a brief description of the changes in 50 words or less."
+  high_level_summary_in_walkthrough: false
+
   path_instructions:
     - path: '**/*'
       instructions: >
