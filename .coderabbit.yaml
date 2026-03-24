@@ -13,7 +13,7 @@ reviews:
   changed_files_summary: false
   suggested_reviewers: false
   in_progress_fortune: false
-  poem: true
+  poem: false
 
   finishing_touches:
     docstrings:
