@@ -46,7 +46,6 @@ reviews:
         - Comment only when the issue must be resolved before merge — otherwise remain silent.
         - When in doubt, err on the side of fewer comments — brevity and
           blocking issues only.
-        - Avoid posting any refactoring issues
   auto_review:
     auto_incremental_review: true
   finishing_touches:
