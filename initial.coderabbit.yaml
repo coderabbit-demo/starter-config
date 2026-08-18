@@ -64,6 +64,7 @@ reviews:
       mode: 'off'
 
 knowledge_base:
+  automatic_repository_linking: true
   issues:
     scope: local
   pull_requests:
